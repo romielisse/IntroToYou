@@ -1,0 +1,40 @@
+body{
+	max-width:80%;
+	margin:auto;
+	background-color: #000000;
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 1em;
+	color: #d5d8d8;
+}
+
+a {
+	color: #EC7063;
+}
+
+.name {
+	font-family: 'Amatic SC', cursive;
+	font-size: 6em;
+	text-align: center;
+	color: #A9CCE3;
+}
+
+h2, h3 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 2em;
+	text-align: center;
+}
+
+h3 {
+	text-align: left;
+	font-size: 1em;
+}
+
+#footer {
+	font-family: 'Amatic SC', cursive;
+	font-size: 1em;
+	text-align: center;
+}
+
+/*font-family: 'Amatic SC', cursive;
+font-family: 'Sacramento', cursive;*/
+
